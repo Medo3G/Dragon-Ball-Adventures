@@ -1,7 +1,7 @@
 # Dragon-Ball-Adventures
 A Dragon Ball themed turned based RPG
 
-## [Showcase Video](https://drive.google.com/file/d/0B-7LF1y06lxEVU1mN1Z2T21SMEE/view?usp=sharing)
+## [Showcase Video](https://drive.google.com/file/d/0B-7LF1y06lxEVU1mN1Z2T21SMEE/view?resourcekey=0-r7TFiQ33TgX0UjV4h2132Q)
 
 ## Best GUI 4th Place Winner
 
